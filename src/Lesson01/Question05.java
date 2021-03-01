@@ -1,4 +1,4 @@
-package day01;
+package Lesson01;
 
 /*
 Soru 5:  x değişkeni tanımlayıp 100 degerini assign edelim

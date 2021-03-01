@@ -1,4 +1,4 @@
-package day01;
+package Lesson01;
 
 /*
 Soru 9: patron çalışanlarına zam yapıyor %20 oranında,

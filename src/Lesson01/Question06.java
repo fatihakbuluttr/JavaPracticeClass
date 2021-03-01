@@ -1,4 +1,4 @@
-package day01;
+package Lesson01;
 
 /*
 soru 6:		a = 4

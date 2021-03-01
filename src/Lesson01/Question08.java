@@ -1,4 +1,4 @@
-package day01;
+package Lesson01;
 /*
 Soru 8:  Ali’nin notu 45
 	Veli’nin notu 65

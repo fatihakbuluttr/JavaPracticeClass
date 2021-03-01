@@ -1,4 +1,4 @@
-package day01;
+package Lesson01;
 /*
 		a = 10 		ve 	b = 20
 a  değişkeni b de buyuk olup olmadığını bulan program
