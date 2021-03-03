@@ -25,5 +25,6 @@ ulke =  ulke.substring(0,1) +
             }
         }
 
+
     }
 }
